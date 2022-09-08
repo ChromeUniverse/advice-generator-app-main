@@ -12,5 +12,3 @@ async function handleClick() {
   content.innerText = `"${advice}"`;
 
 }
-
-handleClick();
